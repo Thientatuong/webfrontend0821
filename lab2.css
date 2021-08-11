@@ -1,0 +1,34 @@
+*{
+    font-family: "Karma", sans-serif;
+}
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+    width:auto;
+    text-align: center;
+}
+.top{
+    display: block;
+    font-size: 50px;
+    text-align: center;
+    line-height: 1.5;
+}
+.padding-16 .item{
+    padding: -16px;
+    width: 300px;
+    float: left;
+    margin: 5px;
+}
+.img{
+    width: 300px;
+}
+.about{
+    align-content: center;
+}
+
+.third{
+    width: 400px;
+    float: left;
+    align-content: center;
+}
+
